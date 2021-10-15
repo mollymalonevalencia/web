@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      showgrid="false"
      width="1919px"
-     inkscape:zoom="0.67239583"
-     inkscape:cx="279.59721"
-     inkscape:cy="215.64679"
+     inkscape:zoom="1.9018226"
+     inkscape:cx="230.8312"
+     inkscape:cy="185.08561"
      inkscape:window-width="1916"
      inkscape:window-height="1023"
      inkscape:window-x="0"
@@ -36,6 +36,18 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient83289">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop83285" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop83287" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient14117">
@@ -68,7 +80,7 @@
          offset="0"
          id="stop1518" />
       <stop
-         style="stop-color:#4d4d4d;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="1"
          id="stop1520" />
     </linearGradient>
@@ -77,9 +89,9 @@
        xlink:href="#linearGradient1522"
        id="linearGradient1524"
        x1="212.49225"
-       y1="139.79861"
+       y1="147.40028"
        x2="212.49225"
-       y2="109.6737"
+       y2="95.37204"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-125.30984,-98.00572)" />
     <filter
@@ -232,13 +244,22 @@
        y1="147.71252"
        x2="374.4263"
        y2="201.23064" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient83289"
+       id="linearGradient83291"
+       x1="244.22812"
+       y1="259.34912"
+       x2="244.22812"
+       y2="6.6823764"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient1524);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:url(#linearGradient1524);fill-opacity:1;stroke:url(#linearGradient83291);stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1464"
        width="489.5304"
        height="294.02206"
@@ -465,14 +486,14 @@
        transform="translate(-135.51122,-136.05344)"><tspan
          x="373.62531"
          y="374.96805"
-         id="tspan83121"><tspan
+         id="tspan84628"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan83119">Encuentra la canción
+           id="tspan84626">Encuentra la canción
 </tspan></tspan><tspan
          x="373.62531"
          y="424.96805"
-         id="tspan83125"><tspan
+         id="tspan84632"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan83123"> infiltrada</tspan></tspan></text>
+           id="tspan84630"> infiltrada</tspan></tspan></text>
   </g>
 </svg>
