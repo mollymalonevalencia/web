@@ -322,3 +322,12 @@ li + li {
   max-height: 200px;
   align-items: center;
 }
+
+.links{
+  display: flex;
+  flex-direction: row;
+}
+
+.links img{
+  max-height: 40px;
+}

@@ -26,14 +26,16 @@
      showgrid="false"
      width="1919px"
      inkscape:zoom="1.9018226"
-     inkscape:cx="230.8312"
-     inkscape:cy="185.08561"
+     inkscape:cx="225.57309"
+     inkscape:cy="-23.661513"
      inkscape:window-width="1916"
      inkscape:window-height="1023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true" />
   <defs
      id="defs2">
     <linearGradient
@@ -486,14 +488,72 @@
        transform="translate(-135.51122,-136.05344)"><tspan
          x="373.62531"
          y="374.96805"
-         id="tspan84830"><tspan
+         id="tspan106057"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan84828">Encuentra la canción
+           id="tspan106055">Encuentra la canción
 </tspan></tspan><tspan
          x="373.62531"
          y="424.96805"
-         id="tspan84834"><tspan
+         id="tspan106061"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan84832"> infiltrada</tspan></tspan></text>
+           id="tspan106059"> infiltrada</tspan></tspan></text>
+    <circle
+       style="opacity:0.905576;fill:#ffffff;fill-opacity:1;stroke:#391500;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path84922"
+       cx="241.14307"
+       cy="72.411011"
+       r="7.586267" />
+    <circle
+       style="opacity:0.905576;fill:#ffffff;fill-opacity:1;stroke:#391500;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle97060"
+       cx="241.14307"
+       cy="72.411011"
+       r="7.586267" />
+    <circle
+       style="opacity:0.905576;fill:#ffffff;fill-opacity:1;stroke:#391500;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle100771"
+       cx="272.73386"
+       cy="72.411011"
+       r="7.586267" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="249.39893"
+       y="101.51754"
+       id="text102579"><tspan
+         sodipodi:role="line"
+         id="tspan102577"
+         x="249.39893"
+         y="101.51754" /></text>
+    <path
+       id="path105342"
+       style="opacity:0.905576;fill:#f4d7d7;fill-opacity:1;stroke:#391500;stroke-width:1.92303;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 244.36431,92.992442 a 12.725685,9.7960803 0 0 0 -0.125,1.10652 12.725685,9.7960803 0 0 0 12.7246,9.795668 12.725685,9.7960803 0 0 0 12.72657,-9.795668 12.725685,9.7960803 0 0 0 -0.0859,-1.10652 z" />
+    <ellipse
+       style="opacity:0.905576;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path105827"
+       cx="243.20174"
+       cy="72.994286"
+       rx="2.2576976"
+       ry="2.1901627" />
+    <g
+       id="g105959"
+       transform="translate(2.9560547,-0.81550598)">
+      <circle
+         style="opacity:0.905576;fill:#ffffff;fill-opacity:1;stroke:#391500;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle105953"
+         cx="-269.7778"
+         cy="73.226517"
+         r="7.586267"
+         transform="scale(-1,1)" />
+      <ellipse
+         style="opacity:0.905576;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse105955"
+         cx="-267.71915"
+         cy="73.809792"
+         rx="2.2576976"
+         ry="2.1901627"
+         transform="scale(-1,1)" />
+    </g>
   </g>
 </svg>
