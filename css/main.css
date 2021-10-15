@@ -326,8 +326,11 @@ li + li {
 .links{
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
+  padding: 10px;
 }
 
 .links img{
   max-height: 40px;
+  margin: 4px;
 }
