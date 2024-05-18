@@ -331,6 +331,10 @@ li + li {
   padding: 10px;
 }
 
+#follow{
+   text-align:center;
+}
+
 .links img{
   max-height: 40px;
   margin: 4px;
