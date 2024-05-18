@@ -271,7 +271,7 @@ textarea {
 }
 
 #playlist{
-  max-width: 450px;
+  max-width: 1000px;
   margin:0 auto;
 }
 
@@ -283,7 +283,7 @@ textarea {
 ul {
   counter-reset: index;  
   padding: 0;
-  max-width: 400px;
+  max-width: 1000px;
 }
 
 /* List element */
